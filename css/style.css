@@ -5,26 +5,25 @@ body
 
 a:link, a:visited
 	{
-		background-color: blue;
-		color:white;
+		background-color: lightblue;
+		color:black;
 		text-decoration: none;
 		padding: 16px;
 		text-align: center;
 		display: inline-block;
-		font-family: verdana;
+		font-family: times-new roman;
 	}
-
 
 a:hover
 	{
-		color:red;
+		color:lightyellow;
 		background-color: orange;
 		text-decoration: underline;
 	}
 
 a:active
 	{
-		color: green;
-		background-color: yellow;
+		color: floralwhite;
+		background-color: red;
 		text-decoration: underline;
 	}
